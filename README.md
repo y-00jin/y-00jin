@@ -16,21 +16,22 @@
 
 ## 🔥 Skills<br/>
 ✔ 사용 경험이 있는 Skill Set<br/><br/>
-<img src="https://img.shields.io/badge/Java-ffffff?style=flat&logo=Eclipse IDE&logoColor=2C2255"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=ffffff"/> <br/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=ffffff"/><br/><br/>
+<img src="https://img.shields.io/badge/Java-ffffff?style=flat&logo=Eclipse IDE&logoColor=2C2255"/>       <!-- 자바 -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/>  <!-- 자바스크립트-->
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/>             <!-- HTML -->
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/>               <!-- CSS -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff"/>            <!-- React-->
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff"/>        <!-- Node.js -->
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring&logoColor=ffffff"/>     <!-- Spring Boot-->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=ffffff"/>            <!-- MySQL-->
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=ffffff"/>          <!-- Oracle-->
+<br/>           
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=ffffff"/>                           <!-- GitHub-->
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=ffffff"/>             <!-- Visual Studio-->
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=ffffff"/>   <!-- VSCode-->
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=ffffff"/>                           <!-- Notion-->
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android&logoColor=ffffff"/>                  <!-- 안드로이드 스튜디오-->
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=ffffff"/><br/><br/>       <!-- 이클립스-->
 
 
 ❗❗ 사용 경험은 없으나, 이론적 지식이 있는 Skill Set<br/><br/>
