@@ -1,7 +1,7 @@
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Yoojin's%20Git%20🤭&fontSize=40&fontAlignY=40&descSize=25&descAlignY=58&imation=fadeIn" /> -->
 
 
-
+<div align="center">
 <br/>
   
 # 🤭 Welcome to Yoojin's Git
@@ -13,11 +13,6 @@
  <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-00jin&show_icons=true&theme=buefy) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=y-00jin&theme=default)](https://git.io/streak-stats)
 -->
-
-
-
-
-
 
 
 
@@ -43,4 +38,4 @@
 ❗❗ 사용 경험은 없으나, 이론적 지식이 있는 Skill Set<br/><br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=&logoColor=ffffff"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=2C2255"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=2C2255"/><br/><br/><br/>
 
-
+</div>
