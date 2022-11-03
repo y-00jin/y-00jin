@@ -1,10 +1,8 @@
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Yoojin's%20Git%20🤭&fontSize=40&fontAlignY=40&descSize=25&descAlignY=58&imation=fadeIn" /> -->
 
 
-<div align="center">
-<br/>
-  
-# 🤭 Welcome to Yoojin's Git
+### 🤭 Welcome to Yoojin's Git
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fy-00jin%2Fhit-counter&count_bg=%23B9C6F9&title_bg=%23B9C6F9&icon=&icon_color=%23000000&title=+%F0%9F%A4%8D+&edge_flat=false"/></a>
 <img src="https://img.shields.io/badge/edbwls2@naver.com-03C75A?style=flat&logo=Gmail&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/y_00jin-FF9090?style=flat&logo=Instagram&logoColor=ffffff"/>
@@ -16,7 +14,7 @@
 
 
 
-# 🔥 Skills
+### 🔥 Skills<br/>
 ✔ 사용 경험이 있는 Skill Set<br/><br/>
 <img src="https://img.shields.io/badge/Java-ffffff?style=flat&logo=Eclipse IDE&logoColor=2C2255"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/> 
@@ -36,6 +34,8 @@
 
 
 ❗❗ 사용 경험은 없으나, 이론적 지식이 있는 Skill Set<br/><br/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=&logoColor=ffffff"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=2C2255"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=2C2255"/><br/><br/><br/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=&logoColor=ffffff"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=2C2255"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=2C2255"/><br/><br/>
 
-</div>
+
+### 🍀 My Github Stats <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-00jin&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
