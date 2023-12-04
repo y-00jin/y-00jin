@@ -13,7 +13,7 @@
   </a>
   <br><br>
   
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=d0u0b&theme=default)](https://github.com/loosie/github-readme-tistory-card)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=d0u0b&theme=default)](https://d0u0b.tistory.com/)
 
 </div>
 <br><br>
