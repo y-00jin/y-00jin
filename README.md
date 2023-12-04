@@ -7,7 +7,7 @@
 # 💻 Dev Log 💻 
 <div style="display:flex; flex-direction:row;">
   <br>
-  <a href="https://d0u0b.tistory.com/">
+  <a href="https://d0u0b.tistory.com/" target="_empty">
       <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
   </a>
   <br><br>
