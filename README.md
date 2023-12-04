@@ -34,8 +34,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=ffffff"/>          <!-- Oracle-->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff"/>          <!-- PostgreSQL-->
 
-  <br>
-  | Techs I want to explore in the future <br><br>
-  
+
   
 </div>
