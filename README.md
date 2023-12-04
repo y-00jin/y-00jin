@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=B2EBF4&text=&animation=twinkling&height=80) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFAE13&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=🌻+Welcome+to+Yoojin's+GitHub)](https://git.io/typing-svg) 
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFAE13&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=🌻+Welcome+to+Yoojin's+GitHub)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=40&duration=3500&pause=3&color=B2EBF4&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=50&lines=　　Welcome+to+Yoojin's+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=B2EBF4&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=50&lines=　Welcome+to+Yoojin's+GitHub)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B2EBF4&height=120&animation=fadeIn&section=footer&text=✈️☁️&fontAlign=80)
 
 
