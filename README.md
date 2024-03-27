@@ -3,7 +3,7 @@
 
 ## 💙 Welcome to Yoojin's Github
 
-![gromit_cut_1](https://github.com/y-00jin/y-00jin/assets/81798918/2b8de751-4d5e-45e5-adc2-3bde0199422d)
+<img src="https://github.com/y-00jin/y-00jin/assets/81798918/2b8de751-4d5e-45e5-adc2-3bde0199422d.jpeg"  width="30%"/>
 
 <br>
 
