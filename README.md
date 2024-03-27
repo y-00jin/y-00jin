@@ -3,21 +3,23 @@
 
 ## 💙 Welcome to Yoojin's Github
 
-<img src="https://github.com/y-00jin/y-00jin/assets/81798918/2b8de751-4d5e-45e5-adc2-3bde0199422d.jpeg"  width="30%"/>
+<img src="https://github.com/y-00jin/y-00jin/assets/81798918/2b8de751-4d5e-45e5-adc2-3bde0199422d.jpeg"  width="35%"/>
 
-<br>
+<br><br>
+
 
 ## 💻 DEV LOG
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; ">
   <br>
   <a href="https://d0u0b.tistory.com/" target="_empty">
       <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
   </a>
-  <br><br>
   
+  <!--
  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=d0u0b&theme=default)](https://d0u0b.tistory.com/)
-
+-->
 </div>
+
 <br><br>
 
 ## 🚀 STACKS
