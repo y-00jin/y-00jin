@@ -3,7 +3,7 @@
 
 ## 💙 Welcome to Yoojin's Github
 
-<img src="https://github.com/y-00jin/y-00jin/assets/81798918/2b8de751-4d5e-45e5-adc2-3bde0199422d.jpeg"  width="35%"/>
+<img src="https://github.com/y-00jin/y-00jin/assets/81798918/976d88a6-1a0d-4cb7-a9a1-d0ad93265c42"  width="35%"/>
 
 <br><br>
 
