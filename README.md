@@ -3,13 +3,13 @@
 
 `Junior` `Back-end Engineer` 
 
-<a href="https://d0u0b.tistory.com/" target="_empty">
+<a href="https://d0u0b.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/yoojin-lee-b37812328/">
+<a href="https://www.linkedin.com/in/yoojin-lee-b37812328/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:y_oojin_lee@naver.com">
+<a href="mailto:y_oojin_lee@naver.com" target="_blank">
   <img src="https://img.shields.io/badge/Mail-FF8383?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
 
