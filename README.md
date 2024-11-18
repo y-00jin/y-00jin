@@ -44,12 +44,10 @@
 
 <br> 
 
-
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/y-00jin"
-  width="500"
-  height="300"
-/>
+    <img src="https://render.gitanimals.org/farms/y-00jin?loading"
+        width="500"
+        height="300"
+        style="background-color: rgb(255, 255, 255);">
 </a>
 
