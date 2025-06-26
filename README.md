@@ -13,7 +13,7 @@
 <a href="https://d0u0b.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/tistory-000000?style=square&logo=Tistory&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/yoojin-lee-b37812328/" target="_blank">
+<a href="https://www.linkedin.com/in/yoojin-l-b37812328" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=square&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:y_oojin_lee@naver.com" target="_blank">
